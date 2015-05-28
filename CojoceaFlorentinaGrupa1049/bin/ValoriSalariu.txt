@@ -1,0 +1,15 @@
+#
+# Valoare initiala cont
+#
+100.0
+#
+#	Test deposit() cu valori valide
+#
+250.0	350.0
+150.0	250.0
+173.0	273.0
+#
+#	Test deposit() cu valori negative
+#
+-156.0
+-234.0
